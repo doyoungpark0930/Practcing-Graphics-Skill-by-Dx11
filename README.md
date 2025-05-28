@@ -1,4 +1,4 @@
-# 🔥 DirectX 11 Graphics Portfolio - 붉은 사막 트레일러 모작
+# 🔥 DirectX 11 Graphics Portfolio -
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/662b69d9-9f4e-419c-8732-aa3b77327447" width="800" />
@@ -72,21 +72,19 @@
 
 ## 📚 참고 자료 및 출처
 
-### 1. 👨‍🏫 강의 및 기본 코드
-- [홍정모 연구소 그래픽스 강의](https://www.honglab.ai/collections)
 
-### 2. 📘 LearnOpenGL 참고
+### 1. 📘 LearnOpenGL 참고
 - [PBR 이론](https://learnopengl.com/PBR/Theory)  
 - [감마 커렉션](https://learnopengl.com/Advanced-Lighting/Gamma-Correction)  
 - [Peter Panning 문제 해결](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)
 
-### 3. 🌩️ ShaderToy 예제 코드
+### 2. 🌩️ ShaderToy 예제 코드
 - [Perlin Noise](https://www.shadertoy.com/view/3dVXDc)  
 - [Volumetric Clouds](https://www.shadertoy.com/view/4ttSWf)
 - [Cook-Torrance + Oren-Nayar - PBR 시도](https://www.shadertoy.com/view/MsSczh)
 
 
-### 4. 🧬 기타 참고
+### 3. 🧬 기타 참고
 - [Wave + Fractal Brownian Motion 이론](https://thebookofshaders.com/13/?lan=kr)  
 - [C++ Perlin Noise 오픈소스](https://github.com/Reputeless/PerlinNoise)  
 - [PBR 오픈소스 코드](https://github.com/Nadrin/PBR)  
