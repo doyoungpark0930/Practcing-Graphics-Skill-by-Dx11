@@ -1,4 +1,4 @@
-# 🔥 DirectX 11 Graphics Portfolio -
+# Practicing Graphics Skil by DX11 -
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/662b69d9-9f4e-419c-8732-aa3b77327447" width="800" />
@@ -11,20 +11,11 @@
 
 ## 🧪 프로젝트 개요
 DirectX 11를 통해, 그래픽스 고급 렌더링 기술 응용 및 쉐이더 프로그래밍 연습 위주로 완성하였습니다
-
-## 🖥️ 테스트 환경 및 성능 참고
-
-- CPU: Intel(R) Core(TM) i5-8265U (1.6GHz)  
-- GPU: Intel UHD Graphics 620 (내장 그래픽)  
-- RAM: 8GB
-
-> ⚠️ 해당 포트폴리오는 **저사양 노트북 환경**에서 개발 및 테스트되었습니다.  
-> 복잡한 연산이 많은 **볼륨 렌더링, 지형 제작에서 특히 프레임 드랍이 심한편** 입니다.
-> 개발은 저사양 환경에서도 구현 가능하도록 최적화를 고려해 진행하였습니다.
+(메인 프로젝트는 아닙니다. 직접 스스로 처음부터 끝까지 완성한 코드는 [DX12](https://github.com/doyoungpark0930/Dx12Engine) 여기에 있습니다)
 
 ---
 
-## 🛠️ 적용 기술
+## 🛠️ 프로젝트에서 접해본 기술
 
 - **PBR (Physically Based Rendering)** 적용  
 - **HDR + Tone Mapping**  
@@ -41,7 +32,7 @@ DirectX 11를 통해, 그래픽스 고급 렌더링 기술 응용 및 쉐이더 
 
 ---
 
-### 📌 향후 구름 렌더링 개선 참고 자료
+### 📌 구름 렌더링 개선 참고 자료
 
 - ShaderToy 구름 렌더링 코드 제공자의 렌더링 해설 영상  
   👉 [YouTube - ShaderToy Volumetric Cloud Explanation](https://www.youtube.com/watch?v=BFld4EBO2RE)
@@ -52,19 +43,6 @@ DirectX 11를 통해, 그래픽스 고급 렌더링 기술 응용 및 쉐이더 
 
 - 구름을 좀 더 이해하기 위해 ShaderToy 및 Unreal Engine 소스를 참고하여  
   다양한 형태의 구름 예제 코드를 경험할 필요가 있음
-
----
-
-## 🔭 향후 학습 및 발전 방향
-
-- **3D Fluid Simulation 복습 및 응용 (연기 시뮬레이션)**  
-  → 유한차분법, 편미분 방정식 해석, Implicit Integration 방식 등을 Compute Shader 기반으로 복습 및 응용
-
-- **Curl Noise의 실제 활용 방식 분석 및 구현**
-- 
-- **Unreal Engine코드 분석 및 활용**
-- 
-- **DirectX 12 기반으로 포팅**
 
 ---
 
